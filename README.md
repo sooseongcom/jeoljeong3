@@ -10,10 +10,10 @@ If you need Korean explanation, go to <https://sooseongcom.com/post/jeoljeong3>.
 ### How to install
 아래의 설치파일을 내려받아 설치합니다.(Click the link.)
 
-* [절정3(Jeoljeong3 Original)]()
-* [절정3 탭템플릿(Jeoljeong3 Tap Template)]()
+* [절정3(Jeoljeong3 Original)](https://github.com/sooseongcom/jeoljeong3/releases/download/v3.0.3/Jeoljeong3.Build3.zip)
+* [절정3 탭템플릿(Jeoljeong3 Tab Template)](https://github.com/sooseongcom/jeoljeong3/releases/download/v3.0.3/Jeoljeong3.Tab.Template.Build3.zip)
   * 태블릿에서도 PPT를 쉽게 넘길 수 있도록 이전/다음 단추 제공(Prev/Next button)
-* [절정3 전자칠판템플릿(Jeoljeong3 Electric Board Template)]()
+* [절정3 전자칠판템플릿(Jeoljeong3 Electric Board Template)](https://github.com/sooseongcom/jeoljeong3/releases/download/v3.0.3/Jeoljeong3.Electric.Board.Template.Build3.zip)
   * 전자칠판에서도 PPT를 쉽게 넘길 수 있도록 이전/다음 단추 제공(Prev/Next button)
   * 편리하게 판서할 수 있도록 펜/지우개/마우스 전환 단추 제공(pen/eraser/mouse button)
 
@@ -68,4 +68,9 @@ If there isn't Developer tab,
   * **Module1**: scrollVal(inp) function
 
 ## License
-This repository contains 나눔바른고딕(NanumBarunGothic.ttf), which is copyrighted by Naver Corporation.
+1\. This repository contains 나눔바른고딕(NanumBarunGothic.ttf), which is copyrighted by Naver Corporation.
+
+2\. Permission\
+2.1. CC0 for offline\
+2.2. CC0 for School assignment\
+**2.3. If you modify and deploy this template, CC BY**
