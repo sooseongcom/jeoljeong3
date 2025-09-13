@@ -10,10 +10,10 @@ If you need Korean explanation, go to <https://sooseongcom.com/post/jeoljeong3>.
 ### How to install
 아래의 설치파일을 내려받아 설치합니다.(Click the link.)
 
-* [절정3(Jeoljeong3 Original)](https://github.com/sooseongcom/jeoljeong3/releases/download/v3.0.3/Jeoljeong3.Build3.zip)
-* [절정3 탭템플릿(Jeoljeong3 Tab Template)](https://github.com/sooseongcom/jeoljeong3/releases/download/v3.0.3/Jeoljeong3.Tab.Template.Build3.zip)
+* [절정3 빌드4(Jeoljeong3 Original Build4)](https://github.com/sooseongcom/jeoljeong3/releases/download/v3.0.4/Jeoljeong3.Build4.zip)
+* [절정3 탭템플릿 빌드4(Jeoljeong3 Tab Template Build4)](https://github.com/sooseongcom/jeoljeong3/releases/download/v3.0.4/Jeoljeong3.Tab.Template.Build4.zip)
   * 태블릿에서도 PPT를 쉽게 넘길 수 있도록 이전/다음 단추 제공(Prev/Next button)
-* [절정3 전자칠판템플릿(Jeoljeong3 Electric Board Template)](https://github.com/sooseongcom/jeoljeong3/releases/download/v3.0.3/Jeoljeong3.Electric.Board.Template.Build3.zip)
+* [절정3 전자칠판템플릿 빌드4(Jeoljeong3 Electronic Board Template Build4)](https://github.com/sooseongcom/jeoljeong3/releases/download/v3.0.4/Jeoljeong3.Electronic.Board.Template.Build4.zip)
   * 전자칠판에서도 PPT를 쉽게 넘길 수 있도록 이전/다음 단추 제공(Prev/Next button)
   * 편리하게 판서할 수 있도록 펜/지우개/마우스 전환 단추 제공(pen/eraser/mouse button)
 
