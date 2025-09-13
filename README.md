@@ -1,4 +1,4 @@
-# Jeoljeong3
+# 절정3(Jeoljeong3)
 Jeoljeong3 is PPT template for touch devices.\
 If you need Korean explanation, go to <https://sooseongcom.com/post/jeoljeong3>.
 
