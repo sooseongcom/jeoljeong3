@@ -8,7 +8,7 @@ If you need Korean explanation, go to <https://sooseongcom.com/post/jeoljeong3>.
 * Display: 16:19
 
 ### How to install
-아래의 설치파일을 내려받아 설치합니다.(Click the link.)
+아래의 설치파일 중 원하는 것을 내려받아 설치합니다.(Click the link which you want.)
 
 * [절정3 빌드5(Jeoljeong3 Original Build5)](https://github.com/sooseongcom/jeoljeong3/releases/download/v3.0.5/Jeoljeong3.Build5.zip)
 * [절정3 탭템플릿 빌드5(Jeoljeong3 Tab Template Build5)](https://github.com/sooseongcom/jeoljeong3/releases/download/v3.0.5/Jeoljeong3.Tab.Template.Build5.zip)
