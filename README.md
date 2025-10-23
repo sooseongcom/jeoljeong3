@@ -7,7 +7,7 @@ If you need Korean explanation, go to <https://sooseongcom.com/post/jeoljeong3>.
 * Microsoft Powerpoint
 * Display: 16:19
 
-### How to install
+### Download
 아래의 설치파일 중 원하는 것을 내려받아 설치합니다.(Click the link which you want.)
 
 * [절정3 빌드5(Jeoljeong3 Original Build5)](https://github.com/sooseongcom/jeoljeong3/releases/download/v3.0.5/Jeoljeong3.Build5.zip)
@@ -17,7 +17,8 @@ If you need Korean explanation, go to <https://sooseongcom.com/post/jeoljeong3>.
   * 전자칠판에서도 PPT를 쉽게 넘길 수 있도록 이전/다음 단추 제공(Prev/Next button)
   * 편리하게 판서할 수 있도록 펜/지우개/마우스 전환 단추 제공(pen/eraser/mouse button)
 
-1\. First, extract files.
+### How to install
+1\. First, download zip file at [Download](#download) and extract it.
 
 ![같은 폴더 안에](https://sooseongcom.com/assets/images/20250830/1.png)\
 2\. external folder and 절정3.pptx file should be in the same folder.\
